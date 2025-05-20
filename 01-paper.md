@@ -1,19 +1,20 @@
 ---
-title: How to MyST, without being mystified 🧙
-subject: Tutorial
-subtitle: Evolve your markdown documents into structured data
-short_title: How to MyST
+title: Hello!
+subject: Welcome to my personal portfolio.
+subtitle: 
+short_title: 
 authors:
-  - name: Rowan Cockett
+  - name: Zion Kowieski
     affiliations:
-      - Executable Books
-      - Curvenote
+      - Oregon State University
+      - Ecologik Institute
+      - Boz Life Science Research and Teaching Institute
     orcid: 0000-0002-7859-8394
-    email: rowan@curvenote.com
+    email: zion.kowieski@gmail.com
 license: CC-BY-4.0
 keywords: myst, markdown, open-science
 abstract: |
-  We introduce, a set of open-source, community-driven tools for MyST Markdown ([myst.tools](https://myst.tools)) designed for scientific communication, including a powerful authoring framework that supports blogs, online books, scientific papers, reports and journals articles.
+  This is my personal portfolio to create a central space to connect various projects I complete to my online presence. 
 kernelspec:
   name: python3
   display_name: Python 3
